@@ -1,2 +1,2 @@
 # JesusIbarraIMT-231
-HOla uwu
+Buenos días, tardes o noches. Soy Jesús Ibarra, estudiante de la carrera de Ingeniería Mecatrónica. 
