@@ -26,3 +26,6 @@ Para asignar los permisos especificados en la consigna se aplicó el siguiente c
 chmod 400 secreto.key
 - Propietario: 4 (solo lectura)
 - Otros y grupo: 0 (nadie más puede acceder)
+
+Link del repositorio en GitHub:
+https://github.com/Jesus-InC/JesusIbarraIMT-231/tree/main/Tarea%20permisos
