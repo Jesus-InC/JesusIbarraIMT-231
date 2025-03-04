@@ -11,4 +11,3 @@ mv nota4.txt ~/practica_shell/backup
 #Eliminar la carpeta imagenes
 cd ..
 rm -r 
-
