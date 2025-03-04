@@ -12,6 +12,5 @@ chmod 500 script.sh
 nano script.sh
 #Reotorgar permisos de ejecución
 chmod 700 script.sh
-nano script.sh
 #Verificar los permiosos
 ls -l script.sh
