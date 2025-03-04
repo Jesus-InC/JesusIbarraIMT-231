@@ -19,5 +19,10 @@ chmod 711 script.sh
 Ejercicio 3:
 Se aplicó el siguiente comando: chmod600 config.cfg
 - Propietario: 6 (solo lectura y escritura)
-- Otros usuarios y grupo: no pueden acceder, por lo que el número de permiso es 0.
+- Otros usuarios y grupo: 0 (no pueden acceder)
 
+Ejercicio 4:
+Para asignar los permisos especificados en la consigna se aplicó el siguiente código:
+chmod 400 secreto.key
+- Propietario: 4 (solo lectura)
+- Otros y grupo: 0 (nadie más puede acceder)
