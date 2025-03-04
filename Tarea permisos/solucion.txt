@@ -1,0 +1,23 @@
+Se descomprimió la carpeta "tpPracticoPermisos.tar.gz" con el siguiente comando:
+tar -xzvf tpPracticoPermisos.tar.gz
+
+Ejercicio 1:
+Se editó el documento1.txt con "nano documento1.txt" y se escribió lo que la orden pedía
+Se aplicaron los siguientes números de permisos:
+- Propietario: 6 (Lectura (4) + Escritura (2))
+- Grupo: 4 (Lectura)
+- Otros: 0 (Nada)
+Y el comando a ejecutar queda así: chmod 640 documento1.txt
+
+Ejercicio 2:
+Se abrió el editor del script.sh y se aplicó echo para imprimir la orden de escribir el nombre, read para leer la respuesta y finalmente otro echo para el saludo.
+Se aplicó el siguiente comando para los permisos especificados en la consigna:
+chmod 711 script.sh
+- Propietario: 7 (lectura, escritura y ejecución)
+- Grupo y otros usuarios: 1 (solo ejecución)
+
+Ejercicio 3:
+Se aplicó el siguiente comando: chmod600 config.cfg
+- Propietario: 6 (solo lectura y escritura)
+- Otros usuarios y grupo: no pueden acceder, por lo que el número de permiso es 0.
+
